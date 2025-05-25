@@ -82,10 +82,3 @@ Slight changes in prompt phrasing led to noticeable differences in motion, atmos
 
 
 
-
-
-
-
-
-# Result:
-
